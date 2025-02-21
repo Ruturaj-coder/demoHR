@@ -1,0 +1,9 @@
+sick_leave: Employees are entitled to 10 days of paid sick leave per year. A medical certificate is required for leaves exceeding 3 days.
+casual_leave: Employees can take up to 12 days of casual leave annually, subject to manager approval.
+annual_leave: Employees get 20 days of paid annual leave. Unused leaves can be carried forward up to 30 days.
+maternity_leave: Female employees are eligible for 26 weeks of paid maternity leave, extendable by 8 weeks unpaid.
+paternity_leave: Male employees get 10 days of paternity leave within 6 months of childbirth.
+bereavement_leave: Employees can take up to 5 days of paid leave in case of the death of an immediate family member.
+salary_structure: The salary is divided into Basic Pay (40%), HRA (20%), Allowances (10%), and Performance Bonus (30%).
+overtime_pay: Overtime is paid at 1.5x the hourly rate for extra hours worked beyond 9 hours per day or 48 hours per week.
+tax_deductions: Income tax, professional tax, and provident fund contributions are deducted from the monthly salary.
